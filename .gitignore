@@ -1,0 +1,8 @@
+CMakeFiles/
+CMakeCache.txt
+code
+example1
+example2
+test_make
+test_typeid
+*.o
